@@ -1,0 +1,26 @@
+{
+  "name": "arcade-commander-cli",
+  "version": "0.0.0",
+  "description": "A command-line task runner triggered by retro arcade buttons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewjensen/arcade-commander-cli.git"
+  },
+  "author": "andrewjensen90@gmail.com",
+  "license": "GPL v2.0",
+  "dependencies": {
+    "anymatch": "^1.1.0",
+    "bluebird": "^2.9.24",
+    "lodash": "^3.7.0",
+    "shell-quote": "^1.4.3",
+    "yargs": "^3.7.2"
+  },
+  "bugs": {
+    "url": "https://github.com/andrewjensen/arcade-commander-cli/issues"
+  },
+  "homepage": "https://github.com/andrewjensen/arcade-commander-cli"
+}
