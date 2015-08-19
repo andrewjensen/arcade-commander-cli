@@ -1,6 +1,6 @@
 # arcade-commander-cli
 
-[Arcade Commander demo](https://raw.githubusercontent.com/andrewjensen/arcade-commander-cli/master/demos/images/testing.gif)
+![Arcade Commander demo](https://raw.githubusercontent.com/andrewjensen/arcade-commander-cli/master/demos/images/testing.gif)
 
 Arcade Commander is a command-line task runner triggered by retro arcade
 buttons. It will run any bash command, which means you could do all of these
