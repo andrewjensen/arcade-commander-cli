@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-console.log('Arcade Commander!');
 
 var childProcess = require('child_process');
 var Promise = require('bluebird');

@@ -1,0 +1,2 @@
+#!/bin/bash
+node resources/random-test-output.js
