@@ -17,7 +17,8 @@
     "bluebird": "^2.9.24",
     "lodash": "^3.7.0",
     "shell-quote": "^1.4.3",
-    "yargs": "^3.7.2"
+    "yargs": "^3.7.2",
+    "node-hid": "^0.4.0"
   },
   "bugs": {
     "url": "https://github.com/andrewjensen/arcade-commander-cli/issues"

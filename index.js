@@ -5,11 +5,11 @@ var childProcess = require('child_process');
 var Promise = require('bluebird');
 var _ = require('lodash');
 var utils = require('./lib/utils.js');
-var Listener = require('./lib/listener.js');
+var Listener = require('./hid.js');
 
 
 var defaultOpts = {
-    debounce: 400,
+    debounce: 50,
     verbose: false,
     silent: false,
     initial: false,
